@@ -11,9 +11,9 @@ Currently implementing various machine learning regression algorithms on dataset
 # Technologies
 Python
 
+# ML Packages
+1. Graphlab Create
+2. Numpy
+
 # IDE
 IPython Notebook (Jupyter Notebook)
-
-# ML Packages
-Graphlab Create
-Numpy
