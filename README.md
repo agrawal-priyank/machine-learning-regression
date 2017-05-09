@@ -15,6 +15,7 @@ Python
 # ML Packages
 1. Graphlab Create
 2. Numpy
+3. Matplotlib
 
 # IDE
 IPython Notebook (Jupyter Notebook)
