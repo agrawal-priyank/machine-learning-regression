@@ -8,6 +8,7 @@ Currently implementing various machine learning regression algorithms on dataset
 1. [Simple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/simple-linear-regression)
 2. [Multiple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/multiple-linear-regression)
 3. [Polynomial Regression - Assessing Performance](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/assessing-performance-polynomial-regression)
+4. [Ridge Regression & K-Folds Cross Validation](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/ridge-regression)
 
 # Technologies
 Python
