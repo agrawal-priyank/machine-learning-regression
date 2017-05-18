@@ -6,7 +6,7 @@
 3. [Polynomial Regression](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/polynomial-regression)
 4. [Ridge Regression](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/ridge-regression)
 
-### Technologies
+### Programming Language
 Python
 
 ### ML Packages
