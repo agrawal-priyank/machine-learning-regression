@@ -20,7 +20,5 @@ Python
 
 ### ML Packages
 Graphlab Create
-
 Numpy
-
 Matplotlib
