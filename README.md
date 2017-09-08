@@ -19,6 +19,8 @@
 Python
 
 ### ML Packages
-1. Graphlab Create
-2. Numpy
-3. Matplotlib
+Graphlab Create
+
+Numpy
+
+Matplotlib
