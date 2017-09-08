@@ -13,7 +13,7 @@
 ### Data
 [House Sales Data](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/data/kc_house_data.gl)
 
-[House Sales Data Small Subset](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/data/kc_house_data_small.gl)
+[House Sales Data (Small Subset)](https://github.com/agrawal-priyank/machine-learning-regression/tree/master/data/kc_house_data_small.gl)
 
 ### Programming Language
 Python
