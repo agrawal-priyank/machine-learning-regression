@@ -1,7 +1,8 @@
 ## Machine Learning: Regression
 
 ### Description
-Implemented linear regression and k nearest neighbors to make a house price prediction model and used machine learning techniques like ridge, lasso, and gradient descent for optimization.
+* Implemented Linear Regression and K Nearest Neighbors algorithm with Gradient Descent optimization to make an optimal model for predicting house prices using the Seattle King County dataset.
+* Performed feature engineering and selection using Lasso and Ridge penalties to eliminate features with no impact on Residual Sum of Squares.
 
 ### Code
 1. [Simple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
