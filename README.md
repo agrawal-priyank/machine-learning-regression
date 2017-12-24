@@ -21,10 +21,10 @@ Python
 ### ML Packages
 Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, Matplotlib
 
-### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
-
 ### How to use it
 1. Fork this repository to have your own copy
 2. Clone your copy on your local system
 3. Install necessary packages
+
+### Note
+This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
