@@ -1,8 +1,8 @@
-## Machine Learning: Regression
+## Machine Learning Regression: House Sales Price Prediction Models
 
 ### Description
-* Implemented Linear Regression and K Nearest Neighbors algorithm with Gradient Descent optimization to make an optimal model for predicting house prices using the Seattle King County dataset.
-* Performed feature engineering and selection using Lasso and Ridge penalties to eliminate features with no impact on Residual Sum of Squares.
+* Implemented linear regression and k nearest neighbors algorithm with gradient descent optimization to make an optimal model for predicting house prices using the Seattle King County dataset.
+* Performed feature engineering and selection using lasso and ridge penalties to eliminate features which had little or no impact on the residual sum of squares error.
 
 ### Code
 1. [Simple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
@@ -19,8 +19,11 @@
 ### Programming Language
 Python
 
-### ML Packages
-Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, Matplotlib
+### Packages
+Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+
+### Tools/IDE 
+Jupyter notebook (IPython)
 
 ### How to use it
 1. Fork this repository to have your own copy
@@ -28,4 +31,4 @@ Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, M
 3. Install necessary packages
 
 ### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
+This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
